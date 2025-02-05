@@ -1,7 +1,7 @@
 # Solo Leveling Game - README
 
 ## 🎮 Game Overview
-A thrilling solo RPG inspired by the popular anime "Solo Leveling", created during Harvard University's CS50 course.
+A simple solo RPG inspired by the popular anime "Solo Leveling", created during Harvard University's CS50 course.
 
 ## 📖 How to Play
 
